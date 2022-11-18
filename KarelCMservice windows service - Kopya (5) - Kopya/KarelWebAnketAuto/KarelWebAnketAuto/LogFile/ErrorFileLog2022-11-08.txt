@@ -1,0 +1,10 @@
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Değer null olamaz.
+Parametre adı: source :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08
+Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. :=>2022-11-08

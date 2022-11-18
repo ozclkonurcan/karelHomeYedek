@@ -1,0 +1,108 @@
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.exe.config
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.exe
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.pdb
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.exe
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.pdb
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.ProjectInstaller.resources
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Quartz.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.Gorev.resources
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.exe.config
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.exe
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.pdb
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Quartz.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.ProjectInstaller.resources
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.Gorev.resources
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.exe
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.pdb
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5)\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.exe.config
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.exe
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\KarelWebAnketAuto.pdb
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Quartz.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\RestSharp.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\Quartz.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.ProjectInstaller.resources
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.exe
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.pdb
+C:\Users\Lenovo\Desktop\KarelCMservice windows service - Kopya (5) - Kopya\KarelWebAnketAuto\KarelWebAnketAuto\obj\Debug\KarelWebAnketAuto.OgledenOnce.resources

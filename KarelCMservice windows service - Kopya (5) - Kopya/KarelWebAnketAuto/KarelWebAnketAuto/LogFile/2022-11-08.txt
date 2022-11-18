@@ -1,0 +1,17 @@
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+Hataİşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\LogFile\ErrorFileLog2022-11-08.txt' dosyasına erişemiyor.   :   8.11.2022 17:40:02
+Hataİşlem, başka bir işlem tarafından kullanıldığından 'C:\Users\Lenovo\Desktop\KarelCMservice windows service\KarelWebAnketAuto\KarelWebAnketAuto\LogFile\ErrorFileLog2022-11-08.txt' dosyasına erişemiyor.   :   8.11.2022 17:40:02
+**İşlem Başlatıldı**2022-11-08
+**İşlem Başlatıldı**2022-11-08
+**İşlem Durduruldu**2022-11-08
